@@ -1,6 +1,6 @@
 # **Some Of My Work ❤️**
 ![](banner.png)
-<!--[](down.png)-->
+[](down.png)
 <!--
 **Akshay0701/Akshay0701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
