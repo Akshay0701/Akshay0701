@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=Akshay0701)
 # **Some Of My Work ❤️**
 ![](banner.png)
 <!--
